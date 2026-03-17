@@ -1,0 +1,4 @@
+sample_venv/
+pycache/
+*.pyc
+.env
